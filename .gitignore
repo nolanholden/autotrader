@@ -106,3 +106,8 @@ venv.bak/
 # personal/sensitive information
 crypto/binance_personal_keys.json
 
+
+
+# workspace stuff
+.vscode/
+
