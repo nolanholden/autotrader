@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# personal/sensitive information
+crypto/binance_personal_keys.json
+
